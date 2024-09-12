@@ -19,3 +19,7 @@ react,
 'react-refresh': reactRefresh,
 '@react-three': ReactThreeFiber,
 },
+
+# For Animating using Gsap
+
+npm install @gsap/react gsap
