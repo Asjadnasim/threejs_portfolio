@@ -23,3 +23,7 @@ react,
 # For Animating using Gsap
 
 npm install @gsap/react gsap
+
+# For Mathing Or calculation
+
+npm install maath
