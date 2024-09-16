@@ -27,3 +27,7 @@ npm install @gsap/react gsap
 # For Mathing Or calculation
 
 npm install maath
+
+# For Email
+
+npm install @emailjs/browser
