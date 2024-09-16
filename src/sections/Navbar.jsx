@@ -34,7 +34,11 @@ const Navbar = () => {
 						href='/'
 						className='text-neutral-400 font-bold text-xl hover:text-white transition-colors'
 					>
-						Asjad
+						<img
+							src='/logo.jpg'
+							alt='logo'
+							className='w-12 h-12 rounded-full opacity-70 hover:opacity-80'
+						/>
 					</a>
 
 					<button
